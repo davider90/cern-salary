@@ -1,0 +1,304 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="26.2.4">
+  <diagram name="Page-1" id="79Bnnt3FQlzSyppqzvf8">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="KdKVTjydY-pF98OfLeUP-1" value="&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;How to Receive Your CERN Salary (Efficiently)&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Note: This is highly opinionated and considers only Swiss banks.&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;The author considers Yuh with Revolut to be the best solution.&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="80" width="490" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KdKVTjydY-pF98OfLeUP-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KdKVTjydY-pF98OfLeUP-2" target="KdKVTjydY-pF98OfLeUP-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KdKVTjydY-pF98OfLeUP-5" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KdKVTjydY-pF98OfLeUP-4">
+          <mxGeometry x="-0.05" y="3" relative="1" as="geometry">
+            <mxPoint x="-2" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KdKVTjydY-pF98OfLeUP-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KdKVTjydY-pF98OfLeUP-2" target="KdKVTjydY-pF98OfLeUP-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KdKVTjydY-pF98OfLeUP-17" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KdKVTjydY-pF98OfLeUP-16">
+          <mxGeometry x="-0.325" relative="1" as="geometry">
+            <mxPoint x="10" y="13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KdKVTjydY-pF98OfLeUP-2" value="Do you already have a CH account?" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="210" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KdKVTjydY-pF98OfLeUP-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KdKVTjydY-pF98OfLeUP-3" target="KdKVTjydY-pF98OfLeUP-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KdKVTjydY-pF98OfLeUP-8" value="&lt;div&gt;Yes&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KdKVTjydY-pF98OfLeUP-7">
+          <mxGeometry x="0.05" y="-1" relative="1" as="geometry">
+            <mxPoint y="-11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KdKVTjydY-pF98OfLeUP-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KdKVTjydY-pF98OfLeUP-3" target="KdKVTjydY-pF98OfLeUP-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KdKVTjydY-pF98OfLeUP-45" value="&lt;div&gt;No&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KdKVTjydY-pF98OfLeUP-44">
+          <mxGeometry x="-0.05" y="-3" relative="1" as="geometry">
+            <mxPoint x="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KdKVTjydY-pF98OfLeUP-3" value="Do you need to exchange currency?" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KdKVTjydY-pF98OfLeUP-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KdKVTjydY-pF98OfLeUP-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="870" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KdKVTjydY-pF98OfLeUP-11" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KdKVTjydY-pF98OfLeUP-10">
+          <mxGeometry x="-0.05" relative="1" as="geometry">
+            <mxPoint y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KdKVTjydY-pF98OfLeUP-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KdKVTjydY-pF98OfLeUP-6" target="KdKVTjydY-pF98OfLeUP-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KdKVTjydY-pF98OfLeUP-66" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KdKVTjydY-pF98OfLeUP-65">
+          <mxGeometry x="0.2" y="-2" relative="1" as="geometry">
+            <mxPoint x="8" y="8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KdKVTjydY-pF98OfLeUP-6" value="Do you have a Swiss Revolut account?" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KdKVTjydY-pF98OfLeUP-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KdKVTjydY-pF98OfLeUP-15" target="KdKVTjydY-pF98OfLeUP-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KdKVTjydY-pF98OfLeUP-20" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KdKVTjydY-pF98OfLeUP-19">
+          <mxGeometry x="-0.125" y="1" relative="1" as="geometry">
+            <mxPoint x="5" y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KdKVTjydY-pF98OfLeUP-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KdKVTjydY-pF98OfLeUP-15" target="KdKVTjydY-pF98OfLeUP-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KdKVTjydY-pF98OfLeUP-27" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KdKVTjydY-pF98OfLeUP-26">
+          <mxGeometry x="-0.125" y="2" relative="1" as="geometry">
+            <mxPoint x="13" y="-51" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KdKVTjydY-pF98OfLeUP-15" value="Do you have a bank account in Austria, France, Germany, Italy, Liechtenstein or Switzerland?" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="520" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KdKVTjydY-pF98OfLeUP-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KdKVTjydY-pF98OfLeUP-18" target="KdKVTjydY-pF98OfLeUP-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KdKVTjydY-pF98OfLeUP-24" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KdKVTjydY-pF98OfLeUP-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KdKVTjydY-pF98OfLeUP-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KdKVTjydY-pF98OfLeUP-18" target="KdKVTjydY-pF98OfLeUP-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KdKVTjydY-pF98OfLeUP-48" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KdKVTjydY-pF98OfLeUP-47">
+          <mxGeometry x="-0.3" y="6" relative="1" as="geometry">
+            <mxPoint x="4" y="-44" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KdKVTjydY-pF98OfLeUP-51" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KdKVTjydY-pF98OfLeUP-47">
+          <mxGeometry x="0.175" y="4" relative="1" as="geometry">
+            <mxPoint x="6" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KdKVTjydY-pF98OfLeUP-18" value="Are you a member of the CERN Staff Association?" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KdKVTjydY-pF98OfLeUP-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="KdKVTjydY-pF98OfLeUP-21" target="KdKVTjydY-pF98OfLeUP-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KdKVTjydY-pF98OfLeUP-21" value="Get the BCGE deal and open a CH account there." style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KdKVTjydY-pF98OfLeUP-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KdKVTjydY-pF98OfLeUP-25" target="KdKVTjydY-pF98OfLeUP-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KdKVTjydY-pF98OfLeUP-30" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KdKVTjydY-pF98OfLeUP-29">
+          <mxGeometry x="-0.05" y="2" relative="1" as="geometry">
+            <mxPoint x="10" y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KdKVTjydY-pF98OfLeUP-113" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="KdKVTjydY-pF98OfLeUP-25" target="KdKVTjydY-pF98OfLeUP-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="845" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KdKVTjydY-pF98OfLeUP-114" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KdKVTjydY-pF98OfLeUP-113">
+          <mxGeometry x="-0.7257" y="1" relative="1" as="geometry">
+            <mxPoint y="-14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KdKVTjydY-pF98OfLeUP-25" value="Are you a US citizen or resident?" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="815" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KdKVTjydY-pF98OfLeUP-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="KdKVTjydY-pF98OfLeUP-28" target="KdKVTjydY-pF98OfLeUP-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="830" y="990" />
+              <mxPoint x="830" y="450" />
+              <mxPoint x="500" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KdKVTjydY-pF98OfLeUP-28" value="Open a CH account with Yuh." style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="960" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KdKVTjydY-pF98OfLeUP-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="KdKVTjydY-pF98OfLeUP-38" target="KdKVTjydY-pF98OfLeUP-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="870" y="880" as="sourcePoint" />
+            <mxPoint x="780" y="490" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="780" y="890" />
+              <mxPoint x="780" y="490" />
+              <mxPoint x="440" y="490" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KdKVTjydY-pF98OfLeUP-59" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KdKVTjydY-pF98OfLeUP-58">
+          <mxGeometry x="-0.9405" y="-1" relative="1" as="geometry">
+            <mxPoint x="-2" y="-13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KdKVTjydY-pF98OfLeUP-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="KdKVTjydY-pF98OfLeUP-38" target="KdKVTjydY-pF98OfLeUP-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KdKVTjydY-pF98OfLeUP-116" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KdKVTjydY-pF98OfLeUP-111">
+          <mxGeometry x="-0.4643" y="1" relative="1" as="geometry">
+            <mxPoint x="45" y="-16" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KdKVTjydY-pF98OfLeUP-38" value="Are you OK with the bank, its products and fees? (Sorry, if you&#39;re from the US, you can&#39;t get Yuh, so you&#39;ll have to say &quot;yes&quot; here)" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="830" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="KdKVTjydY-pF98OfLeUP-43" value="Use your CH account for everything" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KdKVTjydY-pF98OfLeUP-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KdKVTjydY-pF98OfLeUP-46" target="KdKVTjydY-pF98OfLeUP-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="670" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KdKVTjydY-pF98OfLeUP-46" value="Open a CH account with UBS." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KdKVTjydY-pF98OfLeUP-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KdKVTjydY-pF98OfLeUP-64" target="KdKVTjydY-pF98OfLeUP-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KdKVTjydY-pF98OfLeUP-73" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KdKVTjydY-pF98OfLeUP-72">
+          <mxGeometry x="-0.15" y="-3" relative="1" as="geometry">
+            <mxPoint x="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KdKVTjydY-pF98OfLeUP-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KdKVTjydY-pF98OfLeUP-64" target="KdKVTjydY-pF98OfLeUP-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KdKVTjydY-pF98OfLeUP-79" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KdKVTjydY-pF98OfLeUP-78">
+          <mxGeometry x="-0.2" y="1" relative="1" as="geometry">
+            <mxPoint x="8" y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KdKVTjydY-pF98OfLeUP-64" value="Can you get one?" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KdKVTjydY-pF98OfLeUP-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KdKVTjydY-pF98OfLeUP-71">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="960" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KdKVTjydY-pF98OfLeUP-71" value="Use a non-Swiss Revolut account, but use Wise as an intermediary to avoid international transfer fees." style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="40" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="KdKVTjydY-pF98OfLeUP-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="KdKVTjydY-pF98OfLeUP-77">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="900" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KdKVTjydY-pF98OfLeUP-77" value="Get one!" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KdKVTjydY-pF98OfLeUP-84" value="&lt;b&gt;Start here!&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="235" y="310" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KdKVTjydY-pF98OfLeUP-86" value="Receive salary on your CH account, domestic transfer (or via Wise) to Revolut and use Revolut as your daily driver." style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="465" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="KdKVTjydY-pF98OfLeUP-104" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KdKVTjydY-pF98OfLeUP-89" target="KdKVTjydY-pF98OfLeUP-103">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KdKVTjydY-pF98OfLeUP-108" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KdKVTjydY-pF98OfLeUP-104">
+          <mxGeometry x="0.15" y="2" relative="1" as="geometry">
+            <mxPoint x="8" y="-6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KdKVTjydY-pF98OfLeUP-106" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KdKVTjydY-pF98OfLeUP-89" target="L9KuWHnWbVONLD8U2JzS-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KdKVTjydY-pF98OfLeUP-107" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KdKVTjydY-pF98OfLeUP-106">
+          <mxGeometry x="0.025" y="1" relative="1" as="geometry">
+            <mxPoint x="-19" y="47" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KdKVTjydY-pF98OfLeUP-89" value="&lt;div&gt;On average, will you be exchanging over&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;€&lt;/span&gt;1400 per month?&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KdKVTjydY-pF98OfLeUP-109" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KdKVTjydY-pF98OfLeUP-103" target="KdKVTjydY-pF98OfLeUP-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KdKVTjydY-pF98OfLeUP-103" value="You&#39;re likely fine using Revolut Standard." style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KdKVTjydY-pF98OfLeUP-110" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KdKVTjydY-pF98OfLeUP-105" target="KdKVTjydY-pF98OfLeUP-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KdKVTjydY-pF98OfLeUP-105" value="You&#39;ll likely save money with Revolut Plus. Get it!" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="L9KuWHnWbVONLD8U2JzS-1" value="&lt;div&gt;Over&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;€&lt;/span&gt;4000 per month?&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="L9KuWHnWbVONLD8U2JzS-2" value="You&#39;ll likely save money with Revolut Premium. Get it!" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="L9KuWHnWbVONLD8U2JzS-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="L9KuWHnWbVONLD8U2JzS-1" target="KdKVTjydY-pF98OfLeUP-105">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1140" y="420" as="sourcePoint" />
+            <mxPoint x="1290" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L9KuWHnWbVONLD8U2JzS-5" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="L9KuWHnWbVONLD8U2JzS-3">
+          <mxGeometry x="-0.2" y="1" relative="1" as="geometry">
+            <mxPoint x="-16" y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L9KuWHnWbVONLD8U2JzS-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="L9KuWHnWbVONLD8U2JzS-1" target="L9KuWHnWbVONLD8U2JzS-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1150" y="430" as="sourcePoint" />
+            <mxPoint x="1150" y="485" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1220" y="270" />
+              <mxPoint x="1220" y="660" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L9KuWHnWbVONLD8U2JzS-6" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="L9KuWHnWbVONLD8U2JzS-4">
+          <mxGeometry x="0.2089" y="3" relative="1" as="geometry">
+            <mxPoint x="-13" y="-252" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L9KuWHnWbVONLD8U2JzS-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="L9KuWHnWbVONLD8U2JzS-2" target="KdKVTjydY-pF98OfLeUP-86">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1140" y="420" as="sourcePoint" />
+            <mxPoint x="1160" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
